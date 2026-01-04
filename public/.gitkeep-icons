@@ -1,0 +1,19 @@
+# PWA Icons Directory
+
+Please add the following icon files to the /public directory for your PWA:
+
+- icon-192x192.png (192x192 pixels)
+- icon-256x256.png (256x256 pixels)
+- icon-384x384.png (384x384 pixels)
+- icon-512x512.png (512x512 pixels)
+
+These icons will be used for:
+- App installation on mobile devices
+- Home screen shortcuts
+- App switcher/multitasking view
+- Splash screens
+
+You can create these icons using tools like:
+- https://realfavicongenerator.net/
+- https://www.pwabuilder.com/imageGenerator
+- Or design your own in Figma/Photoshop/etc.
